@@ -1,2 +1,1 @@
-# alx-pre_course
-alx repo
+My first readme
